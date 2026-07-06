@@ -1,0 +1,51 @@
+{
+  "citations": [
+    {
+      "source": "blog.google",
+      "title": "Introducing computer use in Gemini 3.5 Flash",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/gemini-computer-use-model/"
+    },
+    {
+      "source": "searchenginejournal.com",
+      "title": "Google Gemini Can Now Control Your Computer. Hackers Are Already Targeting AI Agents",
+      "url": "https://www.searchenginejournal.com/google-gemini-can-now-control-your-computer-hackers-are-already-targeting-ai-agents/"
+    },
+    {
+      "source": "mit.edu",
+      "title": "Q&A: What is agentic AI today, and what do we want it to be?",
+      "url": "https://news.mit.edu/2025/qa-what-agentic-ai-today-and-what-do-we-want-it-be"
+    },
+    {
+      "source": "letsdatascience.com",
+      "title": "Specialized AI Tools Boost Productivity Stacks in 2026",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWlRsSDJ1UGxFWkczMWRVeVJyMWVHUDE5M0JaYzluWldnSE5wTGQ5Q3l1dmhDV1pobFhCNmJtSGlCVExKc3RUcnByUF9ndk1HQ0oxWElRTzJNTGFtbnNidlZhTC1rSGVoNW9BZ01rXzJRLS1CQ0ZwNVZ3MXg1S3o0NS1WNnkwMXRzMHZzWTlieFBBT0RqTnhQWk1tbHE"
+    },
+    {
+      "source": "anthropic.com",
+      "title": "Building Effective AI Agents",
+      "url": "https://www.anthropic.com/engineering/building-effective-agents"
+    },
+    {
+      "source": "chosun.com",
+      "title": "AI Agents Consume 137x More Electricity Than Chatbots",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYl9kcHJKUGt0cDFyMmwyWVdQRU1rZml3dkRETC1kNmhaa3BrOUpiUHF0VDhMRU1rZ1JHdTN5VTMxak5UVTNQd3VqeXF6RTVCbmJ0Mm14MDdFcTg4RDd2VEc4bThqSlAyVWkxOG9pM1JLNUNkaTVKNkpqZGp3NVpyYUxFb0ZzWWZU"
+    }
+  ],
+  "design_plan": "Python RNG Execution: seed=hash(title+kind+audience+generated_at) -> selected architecture=workflow-command-center; AIDA Check: hero(attention), proof/market context(interest), animated workflow(desire), CTA(action); Font Selection: Cabinet Grotesk verified; Hero Math Verification: clamp(44px\u201376px) with 1120px max-width ensures 2\u20133 lines; Bento Density Verification: grid-auto-flow:dense present; GSAP Motion Selection: pinned-chapter-scroll + hover-physics; Label Sweep & Button Check: black primary CTA and white secondary CTA confirmed.",
+  "generated_at": "2026-07-06T17:18:55.736904+00:00",
+  "headline": "Super for creators and coaches turning conversations into content and operations",
+  "site_brief": {
+    "audience": "creators and coaches turning conversations into content and operations",
+    "goal": "Create a conversion-focused landing page for this audience. Tie current market evidence to pain points, then show how Super can operate apps and reuse a computer-use cache for repeated work. Include a long-form field guide for this niche with concrete workflows, how-to steps, role-specific examples, objections, and a setup checklist.",
+    "kind": "niche_landing",
+    "queries": [
+      "creators and coaches turning conversations into content and operations AI assistant",
+      "creators and coaches turning conversations into content and operations personal AI agent",
+      "computer use AI agent",
+      "AI workflow automation"
+    ],
+    "slug": "super-for-creators-and-coaches-turning-conversations-into",
+    "title": "Super for creators and coaches turning conversations into content and operations"
+  },
+  "summary": "A premium niche landing page and field guide for creators and coaches who want to turn calls, DMs, voice notes, and workshops into durable content and repeatable operations. Super positions itself as the sharper alternative for repeated computer-use workflows thanks to its reusable computer-use cache."
+}
